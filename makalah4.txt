@@ -1,0 +1,4 @@
+mean let's say I pulled from master, created a new featureBranch...committed my changes and then pushed my changes 
+to origin/featureBranch and then I merged/pull that feature into my master. <— at this moment am I not done with my 
+featureBranch? Why would I need it to point to remote master branch? Shouldn't I checkout to local/master and then 
+pull from latest origin?
